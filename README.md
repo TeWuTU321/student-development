@@ -20,9 +20,9 @@
 
 **前端页面地址：https://github.com/TeWuTU321/esayvue**
 
-- element-ui
+- element-plus  
 - axios
-- vue
+- vue3
 - WangEdit富文本编辑器
 
 **后端接口地址：https://github.com/TeWuTU321/student-development**
