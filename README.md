@@ -12,10 +12,10 @@
 
 ![img](https://rabbit-tewu.oss-cn-chengdu.aliyuncs.com/img/UM24Y$O%7BHANVB0VS0EL90$9.png)
 
-![img.png](img.png)
+![image-20220625145335828](https://rabbit-tewu.oss-cn-chengdu.aliyuncs.com/img/image-20220625145335828.png)
 
 ![image-20220625140707090](https://rabbit-tewu.oss-cn-chengdu.aliyuncs.com/img/image-20220625140707090.png)
-![img_1.png](img_1.png)
+![image-20220625145406194](https://rabbit-tewu.oss-cn-chengdu.aliyuncs.com/img/image-20220625145406194.png)
 ### 技术
 
 **前端页面地址：https://github.com/TeWuTU321/esayvue**
